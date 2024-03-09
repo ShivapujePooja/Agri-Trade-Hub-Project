@@ -1,0 +1,21 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "\"we are creating api data for agritrade data\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon run start",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "server"
+  },
+  "author": "\"pooja shivapuje\"",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3",
+    "mongod": "^2.0.0",
+    "mongoose": "^8.2.1"
+  }
+}
