@@ -1,0 +1,455 @@
+ [
+   {
+    "image":"https://tse1.mm.bing.net/th?id=OIP.S9LDNgVw9cWxjJ1X--neLAHaGr&pid=Api&P=0&h=220",
+      "name": "Apple",
+      "price": 100,
+      "description": "Crisp and juicy apple.",
+      "rating": "★★★★☆",
+      "reviews": 35,
+      "availability": "In Stock",
+      "shippingInformation": {
+        "estimatedDelivery": "2024-03-15",
+        "shippingCost": 3.99
+    },
+    "productVariants":{
+     "color":"Red",
+     "size":"Small"
+    }
+
+    
+    },{
+        "image":"https://tse1.mm.bing.net/th?id=OIP.xW2SAK_9PbhzSXaH_7TTEwHaE8&pid=Api&P=0&h=220",
+      "name": "Banana",
+      "price": 30,
+      "description": "Ripe and sweet banana.",
+      "rating": "★★★★☆",
+      "reviews": 28,
+      "availability": "In Stock",
+      "shippingInformation": {
+        "estimatedDelivery": "2024-03-12",
+        "shippingCost": 2.99
+      },
+      "productVariants":{
+        "color":"Red",
+        "size":"Small"
+       }
+    },
+    {
+        "image":"https://tse1.mm.bing.net/th?id=OIP.IzH72srljyMnO9hO06gn4gHaE8&pid=Api&P=0&h=220",
+      "name": "Orange",
+      "price": 60,
+      "description": "Fresh and tangy orange.",
+      "rating": "★★★★★",
+      "reviews": 42,
+      "availability": "In Stock",
+      "shippingInformation": {
+        "estimatedDelivery": "2024-03-14",
+        "shippingCost": 3.49
+      },
+      "productVariants":{
+        "color":"Red",
+        "size":"Small"
+       }
+    },
+    {
+        "image":"https://tse1.mm.bing.net/th?id=OIP.TrwFLozXPoQXAQzp2Eai-AHaE9&pid=Api&P=0&h=220",
+      "name": "Grapes",
+      "price": 40,
+      "description": "Sweet and seedless grapes.",
+      "rating": "★★★★☆",
+      "reviews": 25,
+      "availability": "In Stock",
+      "shippingInformation": {
+        "estimatedDelivery": "2024-03-16",
+        "shippingCost": 4.99
+      },
+      "productVariants":{
+        "color":"Red",
+        "size":"Small"
+       }
+    },
+    {
+        "image":"https://tse2.mm.bing.net/th?id=OIP.bcWUR4FxR58bVn1NwKEkdQHaE3&pid=Api&P=0&h=220",
+      "name": "Strawberry",
+      "price": 60,
+      "description": "Plump and succulent strawberries.",
+      "rating": "★★★★★",
+      "reviews": 38,
+      "availability": "In Stock",
+      "shippingInformation": {
+        "estimatedDelivery": "2024-03-18",
+        "shippingCost": 5.49
+      },
+      "productVariants":{
+        "color":"Red",
+        "size":"Small"
+       }
+    },
+          {
+            "image":"https://tse4.mm.bing.net/th?id=OIP.PB91vt4AjAnW3MdRs2tMewHaHa&pid=Api&P=0&h=220",
+            "name": "Pineapple",
+            "price": 70,
+            "description": "Sweet and juicy pineapple.",
+            "rating": "★★★★☆",
+            "reviews": 30,
+            "availability": "In Stock",
+            "shippingInformation": {
+              "estimatedDelivery": "2024-03-20",
+              "shippingCost": 4.99
+            },
+            "productVariants":{
+                "color":"Red",
+                "size":"Small"
+               }
+          },
+          {
+            "image":"https://tse4.mm.bing.net/th?id=OIP.Kp70qDrQjNOqds5-T6_hBgHaF5&pid=Api&P=0&h=220",
+            "name": "Watermelon",
+            "price": 40,
+            "description": "Refreshing and hydrating watermelon.",
+            "rating": "★★★★★",
+            "reviews": 45,
+            "availability": "In Stock",
+            "shippingInformation": {
+              "estimatedDelivery": "2024-03-22",
+              "shippingCost": 6.99
+            },
+            "productVariants":{
+                "color":"Red",
+                "size":"Small"
+               }
+          },
+          {
+            "image":"https://tse4.mm.bing.net/th?id=OIP.O5PI9L5tQ6Ml5o0OT_mw-QHaE8&pid=Api&P=0&h=220",
+            "name": "Mango",
+            "price": 70,
+            "description": "Juicy and delicious mango.",
+            "rating": "★★★★☆",
+            "reviews": 32,
+            "availability": "In Stock",
+            "shippingInformation": {
+              "estimatedDelivery": "2024-03-24",
+              "shippingCost": 5.99
+            },
+            "productVariants":{
+                "color":"Red",
+                "size":"Small"
+               }
+          },
+          {
+            "image":"https://tse2.mm.bing.net/th?id=OIP.GiM-CU_KEIxkQ4GVg-FJiQHaE6&pid=Api&P=0&h=220",
+            "name": "Kiwi",
+            "price": 100,
+            "description": "Tart and tangy kiwi.",
+            "rating": "★★★★☆",
+            "reviews": 20,
+            "availability": "In Stock",
+            "shippingInformation": {
+              "estimatedDelivery": "2024-03-26",
+              "shippingCost": 3.49
+            },
+            "productVariants":{
+                "color":"Red",
+                "size":"Small"
+               }
+          },
+          {
+            "image":"https://tse2.mm.bing.net/th?id=OIP.m8XR7og8G70YroXl4waU2AHaF0&pid=Api&P=0&h=220",
+            "name": "Peach",
+            "price": 60,
+            "description": "Sweet and fuzzy peach.",
+            "rating": "★★★★☆",
+            "reviews": 28,
+            "availability": "In Stock",
+            "shippingInformation": {
+              "estimatedDelivery": "2024-03-28",
+              "shippingCost": 4.49
+            },
+            "productVariants":{
+                "color":"Red",
+                "size":"Small"
+               }
+          },
+          {
+            "image":"https://tse1.mm.bing.net/th?id=OIP.BT7ElKraQK_zP7FBWlD-kQHaF9&pid=Api&P=0&h=220",
+            "name": "Pear",
+            "price": 80,
+            "description": "Crisp and juicy pear.",
+            "rating": "★★★★☆",
+            "reviews": 25,
+            "availability": "In Stock",
+            "shippingInformation": {
+              "estimatedDelivery": "2024-03-30",
+              "shippingCost": 3.99
+            },
+            "productVariants":{
+                "color":"Red",
+                "size":"Small"
+               }
+          },
+          {
+            "image":"https://tse4.explicit.bing.net/th?id=OIP.TxHCygWmyOOyDs16C0jqwgHaE0&pid=Api&P=0&h=220",
+            "name": "Cherry",
+            "price": 120,
+            "description": "Sweet and succulent cherry.",
+            "rating": "★★★★☆",
+            "reviews": 35,
+            "availability": "In Stock",
+            "shippingInformation": {
+              "estimatedDelivery": "2024-04-01",
+              "shippingCost": 6.49
+            },
+            "productVariants":{
+                "color":"Red",
+                "size":"Small"
+               }
+          },
+          {
+            "image":"https://tse2.mm.bing.net/th?id=OIP.16xoDFWz2Jnz3WnNVDGupgHaE9&pid=Api&P=0&h=220",
+            "name": "Plum",
+            "price": 80,
+            "description": "Juicy and flavorful plum.",
+            "rating": "★★★★☆",
+            "reviews": 22,
+            "availability": "In Stock",
+            "shippingInformation": {
+              "estimatedDelivery": "2024-04-03",
+              "shippingCost": 4.29
+            },
+            "productVariants":{
+                "color":"Red",
+                "size":"Small"
+               }
+          },
+          {
+            "image":"https://tse1.explicit.bing.net/th?id=OIP.y1BUaKC_ly281ehhpjo6oAHaFL&pid=Api&P=0&h=220",
+            "name": "Apricot",
+            "price": 60,
+            "description": "Sweet and aromatic apricot.",
+            "rating": "★★★★★",
+            "reviews": 40,
+            "availability": "In Stock",
+            "shippingInformation": {
+              "estimatedDelivery": "2024-04-05",
+              "shippingCost": 5.29
+            },
+            "productVariants":{
+                "color":"Red",
+                "size":"Small"
+               }
+          },
+          {
+            "image":"https://tse4.explicit.bing.net/th?id=OIP.MliftykAZOvI-jeocMQFEwHaE8&pid=Api&P=0&h=220",
+            "name": "Cantaloupe",
+            "price": 70,
+            "description": "Sweet and refreshing cantaloupe.",
+            "rating": "★★★★★",
+            "reviews": 42,
+            "availability": "In Stock",
+            "shippingInformation": {
+              "estimatedDelivery": "2024-04-07",
+              "shippingCost": 5.99
+            },
+            "productVariants":{
+                "color":"Red",
+                "size":"Small"
+               }
+          },
+          {
+            "image":"https://tse2.mm.bing.net/th?id=OIP.m64pW5v-exI8Xt9CgCW0FgHaE7&pid=Api&P=0&h=220",
+            "name": "Blueberry",
+            "price": 80,
+            "description": "Plump and juicy blueberry.",
+            "rating": "★★★★☆",
+            "reviews": 30,
+            "availability": "In Stock",
+            "shippingInformation": {
+              "estimatedDelivery": "2024-04-09",
+              "shippingCost": 7.99
+            },
+            "productVariants":{
+                "color":"Red",
+                "size":"Small"
+               }
+          },
+          {
+            "image":"https://tse3.mm.bing.net/th?id=OIP.5d7CfzRTd-_kWL1rALa2owHaE8&pid=Api&P=0&h=220",
+            "name": "Raspberry",
+            "price": 70,
+            "description": "Tangy and flavorful raspberry.",
+            "rating": "★★★★☆",
+            "reviews": 35,
+            "availability": "In Stock",
+            "shippingInformation": {
+              "estimatedDelivery": "2024-04-11",
+              "shippingCost": 6.99
+            },
+            "productVariants":{
+                "color":"Red",
+                "size":"Small"
+               }
+        }
+    ]
+
+
+    [
+        {
+         "image":"https://tse1.mm.bing.net/th?id=OIP.S9LDNgVw9cWxjJ1X--neLAHaGr&pid=Api&P=0&h=220",
+           "name": "Apple",
+           "price": 100,
+           "description": "Crisp and juicy apple.",
+           "rating": "★★★★☆",
+           "reviews": 35,
+           "availability": "In Stock"
+        },
+         {
+             "image":"https://tse1.mm.bing.net/th?id=OIP.xW2SAK_9PbhzSXaH_7TTEwHaE8&pid=Api&P=0&h=220",
+           "name": "Banana",
+           "price": 30,
+           "description": "Ripe and sweet banana.",
+           "rating": "★★★★☆",
+           "reviews": 28,
+           "availability": "In Stock"
+           },
+         {
+             "image":"https://tse1.mm.bing.net/th?id=OIP.IzH72srljyMnO9hO06gn4gHaE8&pid=Api&P=0&h=220",
+           "name": "Orange",
+           "price": 60,
+           "description": "Fresh and tangy orange.",
+           "rating": "★★★★★",
+           "reviews": 42,
+           "availability": "In Stock"
+           },
+{
+    "image":"https://tse1.mm.bing.net/th?id=OIP.TrwFLozXPoQXAQzp2Eai-AHaE9&pid=Api&P=0&h=220",
+    "name": "Grapes",
+    "price": 40,
+    "description": "Sweet and seedless grapes.",
+    "rating": "★★★★☆",
+    "reviews": 25,
+    "availability": "In Stock"
+}
+{
+    "image":"https://tse2.mm.bing.net/th?id=OIP.bcWUR4FxR58bVn1NwKEkdQHaE3&pid=Api&P=0&h=220",
+    "name": "Strawberry",
+    "price": 60,
+    "description": "Plump and succulent strawberries.",
+    "rating": "★★★★★",
+    "reviews": 38,
+    "availability": "In Stock"
+},               
+{
+    "image":"https://tse4.mm.bing.net/th?id=OIP.PB91vt4AjAnW3MdRs2tMewHaHa&pid=Api&P=0&h=220",
+    "name": "Pineapple",
+    "price": 70,
+    "description": "Sweet and juicy pineapple.",
+    "rating": "★★★★☆",
+    "reviews": 30,
+    "availability": "In Stock"
+},
+{
+    "image":"https://tse4.mm.bing.net/th?id=OIP.Kp70qDrQjNOqds5-T6_hBgHaF5&pid=Api&P=0&h=220",
+    "name": "Watermelon",
+    "price": 40,
+    "description": "Refreshing and hydrating watermelon.",
+    "rating": "★★★★★",
+    "reviews": 45,
+    "availability": "In Stock"
+}
+{
+   "image":"https://tse4.mm.bing.net/th?id=OIP.O5PI9L5tQ6Ml5o0OT_mw-QHaE8&pid=Api&P=0&h=220",
+   "name": "Mango",
+   "price": 70,
+   "description": "Juicy and delicious mango.",
+   "rating": "★★★★☆",
+   "reviews": 32,
+   "availability": "In Stock"
+}
+{
+    "image":"https://tse2.mm.bing.net/th?id=OIP.GiM-CU_KEIxkQ4GVg-FJiQHaE6&pid=Api&P=0&h=220",
+    "name": "Kiwi",
+    "price": 100,
+    "description": "Tart and tangy kiwi.",
+    "rating": "★★★★☆",
+    "reviews": 20,
+    "availability": "In Stock"
+},
+{
+    "image":"https://tse2.mm.bing.net/th?id=OIP.m8XR7og8G70YroXl4waU2AHaF0&pid=Api&P=0&h=220",
+    "name": "Peach",
+    "price": 60,   
+    "description": "Sweet and fuzzy peach.",
+    "rating": "★★★★☆",
+    "reviews": 28,
+    "availability": "In Stock"
+}
+
+
+{
+   "image":"https://tse1.mm.bing.net/th?id=OIP.BT7ElKraQK_zP7FBWlD-kQHaF9&pid=Api&P=0&h=220",
+   "name": "Pear",
+   "price": 80,
+   "description": "Crisp and juicy pear.",
+   "rating": "★★★★☆",
+   "reviews": 25,
+   "availability": "In Stock"
+}
+{
+   "image":"https://tse4.explicit.bing.net/th?id=OIP.TxHCygWmyOOyDs16C0jqwgHaE0&pid=Api&P=0&h=220",
+   "name": "Cherry",
+   "price": 120,
+   "description": "Sweet and succulent cherry.",
+   "rating": "★★★★☆",
+   "reviews": 35,
+   "availability": "In Stock"
+}
+{
+   "image":"https://tse2.mm.bing.net/th?id=OIP.16xoDFWz2Jnz3WnNVDGupgHaE9&pid=Api&P=0&h=220",
+   "name": "Plum",
+   "price": 80,
+   "description": "Juicy and flavorful plum.",
+   "rating": "★★★★☆",
+   "reviews": 22,
+   "availability": "In Stock"
+}
+{
+    "image":"https://tse1.explicit.bing.net/th?id=OIP.y1BUaKC_ly281ehhpjo6oAHaFL&pid=Api&P=0&h=220",
+    "name": "Apricot",
+    "price": 60,
+    "description": "Sweet and aromatic apricot.",
+    "rating": "★★★★★",
+    "reviews": 40,
+    "availability": "In Stock"
+},
+{
+    "image":"https://tse4.explicit.bing.net/th?id=OIP.MliftykAZOvI-jeocMQFEwHaE8&pid=Api&P=0&h=220",
+    "name": "Cantaloupe",
+    "price": 70,
+    "description": "Sweet and refreshing cantaloupe.",
+    "rating": "★★★★★",
+    "reviews": 42,
+    "availability": "In Stock"
+}
+{
+    "image":"https://tse2.mm.bing.net/th?id=OIP.m64pW5v-exI8Xt9CgCW0FgHaE7&pid=Api&P=0&h=220",
+    "name": "Blueberry",
+    "price": 80,   
+    "description": "Plump and juicy blueberry.",
+    "rating": "★★★★☆",
+    "reviews": 30,
+    "availability": "In Stock"
+}               
+{
+    "image":"https://tse3.mm.bing.net/th?id=OIP.5d7CfzRTd-_kWL1rALa2owHaE8&pid=Api&P=0&h=220",
+    "name": "Raspberry",
+    "price": 70,
+    "description": "Tangy and flavorful raspberry.",
+    "rating": "★★★★☆",
+    "reviews": 35,
+    "availability": "In Stock"
+}
+         ]
+     
+     
+         
+         
