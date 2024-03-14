@@ -1,0 +1,82 @@
+#products {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.card {
+    flex-basis: calc(25% - 20px);
+    margin-bottom: 20px;
+    border: 2px solid black;
+    border-radius: 5px;
+    overflow: hidden;
+    position: relative;
+    transition: transform 0.5s ease;
+}
+
+.card:hover {
+    transform: scale(0.95);
+}
+
+
+.card-image img {
+    width: 100%;
+    height: auto;
+    height: 170px;
+    width: 190px;
+}
+
+.card h3 {
+    font-size: 1rem;
+    margin-top: 1px;
+    margin-bottom: 5px;
+    color: green;
+    margin-left: 40px;
+}
+
+.card p {
+    margin-top: 1px;
+    margin-bottom: 3px;
+}
+
+.card .price {
+    font-size: 1 rem;
+    font-weight: bold;
+    color: green;
+}
+
+.card-image {
+    border: 1px solid white;
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-bottom: 5px;
+    margin-right: 5px;
+}
+
+.card-info {
+    padding: 5px;
+    margin-left: 5px;
+    margin-bottom: 2px;
+    margin-right: 2px;
+    width: 220px;
+    height: 100px;
+    
+}
+
+.heart-icon {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    z-index: 1;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+.heart-icon:hover {
+    color:red;
+}
+
+.heart-icon:active {
+    color:red;
+}
