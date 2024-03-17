@@ -1,11 +1,21 @@
 import React, { useState, useEffect } from "react";
-import { useParams } from "react-router-dom";
+import { useParams, useNavigate } from "react-router-dom";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faMapMarkerAlt } from "@fortawesome/free-solid-svg-icons";
+import "./ProductDetail.css";
 
 function ProductDetail() {
   const { id } = useParams();
+  const navigate = useNavigate(); // Import useNavigate from react-router-dom
+
   const [product, setProduct] = useState(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
+
+  const handleSubmit = () => {
+    console.log("Clicked 'Become a Seller'");
+    navigate("/sell"); // Use navigate to redirect to the seller form page
+  };
 
   useEffect(() => {
     async function fetchProduct() {
@@ -49,14 +59,28 @@ function ProductDetail() {
   }
 
   return (
-    <div>
+    <div className="ProductDetailContainer">
       <h2>{product.name}</h2>
-      <img src={product.image} alt={product.name} />
-      <p>Description: {product.description}</p>
-      <p>Price: ${product.price}</p>
-      <p>Rating: {product.rating}</p>
-      <p>Reviews: {product.reviews}</p>
-      <p>Availability: {product.availability}</p>
+      <img className="images" src={product.image} alt={product.name} />
+      <div className="butn" style={{ backgroundColor: "green" }}>
+        <button onClick={handleSubmit}>Become a seller</button>
+      </div>
+      <div className="productInfo">
+        <p>Price: ₹{product.price}kg</p>
+        <p>Last 30 Days</p>
+
+        <p>
+          High:{product.high} Low:{product.low}
+        </p>
+        <p>Description: {product.description}</p>
+        <p>Sown in :{product.sownin}</p>
+        <p>Sowing months:{product.sowingmonths}</p>
+        <p>Yield:{product.yield}</p>
+        <div className="location">
+          <FontAwesomeIcon icon={faMapMarkerAlt} />
+          <span>Humnabad</span>
+        </div>
+      </div>
     </div>
   );
 }
