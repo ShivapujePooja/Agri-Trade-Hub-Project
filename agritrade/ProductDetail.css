@@ -51,15 +51,15 @@ h2{
  } 
  .ProductDetailContainer .productInfo p {
      margin: 0;
-     /* Remove default margins */
+     
      margin-bottom: 10px;
-     /* Add some bottom margin for spacing */
+    
  }
 
- /* Ensure correct alignment for the last 30 days, high, low, etc. */
+ 
  .ProductDetailContainer .productInfo p:last-child {
      margin-bottom: 0;
-     /* Remove bottom margin for the last paragraph */
+     
  }
  
  .location {
